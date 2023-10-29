@@ -1,0 +1,10 @@
+S001, V0001, M2341, Americano, 7.00, 50
+S002, V1002, M2566, Cold Brew, 9.00, 10
+S003, V1003, M0812, Cappucino, 9.50, 40
+S004, V1004, M7456, Mocha, 8.50, 25
+S005, V1005, M6178, Matcha, 8.50, 10
+S006, V1006, M1020, Espresso, 10.00, 12
+S007, V1007, M1282, Hot Chocolate, 8.00, 10
+S008, V1008, M1263, Lemon Tea, 7.50, 5
+S009, V1009, M6298, Orange Juice, 7.50, 20
+S010, V1010, M7189, Apple Juice, 7.50, 15
